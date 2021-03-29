@@ -16,6 +16,11 @@ namespace HW_20
 
             while (isTesting == true)
             {
+
+
+                //git commt testing words
+                // just adding this here to test stuff
+
                 Console.Write("which question would you like to see? :");
 
 
