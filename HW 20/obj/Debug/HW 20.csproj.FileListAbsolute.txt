@@ -1,7 +1,0 @@
-C:\Users\Work\source\repos\HW 20\HW 20\bin\Debug\HW 20.exe.config
-C:\Users\Work\source\repos\HW 20\HW 20\bin\Debug\HW 20.exe
-C:\Users\Work\source\repos\HW 20\HW 20\bin\Debug\HW 20.pdb
-C:\Users\Work\source\repos\HW 20\HW 20\obj\Debug\HW 20.csprojAssemblyReference.cache
-C:\Users\Work\source\repos\HW 20\HW 20\obj\Debug\HW 20.csproj.CoreCompileInputs.cache
-C:\Users\Work\source\repos\HW 20\HW 20\obj\Debug\HW 20.exe
-C:\Users\Work\source\repos\HW 20\HW 20\obj\Debug\HW 20.pdb
